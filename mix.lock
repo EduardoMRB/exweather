@@ -1,0 +1,2 @@
+%{"hackney": {:hex, :hackney, "0.14.3"},
+  "idna": {:hex, :idna, "1.0.1"}}
